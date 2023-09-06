@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+.answer {
+  border-left: rgb(212, 210, 210) 7px solid;
+}
